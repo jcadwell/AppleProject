@@ -1,0 +1,86 @@
+
+
+body {
+    font-size: 16px;
+    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif"; 
+}
+
+.blackbar {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+nav {
+    height: 46px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 35px;
+    display: inline-block;
+    font-size: 0.8em;
+    
+    height: 46px;
+    line-height: 46px;
+}
+
+nav a:first-of-type {
+    margin-left: 0;
+}
+
+nav a:last-of-type {
+    margin-right: 0;
+}
+
+.subnav li, .subnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.subnav {
+    height: 135px;
+    background-color: rgba(255, 255, 255, 0.6);
+    text-align: center;
+}
+
+subnav ul {
+    display: inline-block;
+    width: 692px;
+    padding-top: 10px;
+}
+
+.subnav li {
+    text-align: center;
+}
+
+.subnav a {
+    display: inline-block;
+    color: rgb(51, 51, 51);
+    height: 113px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+    
+.subnav li:nth-child(1) {
+    background: url('subnav1.png') no-repeat top center;
+}
+    
+.subnav li:nth-child(2) {
+    background: url('subnav2.png') no-repeat top center;
+}
+    
+.subnav li:nth-child(3) {
+    background: url('subnav3.png') no-repeat top center;
+}
+    
+.subnav li:nth-child(4) {
+    background: url('subnav4.png') no-repeat top center;
+}
+    
+.subnav li:nth-child(5) {
+    background: url('subnav5.png') no-repeat top center;
+}
+    

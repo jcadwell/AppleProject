@@ -1,0 +1,44 @@
+html {
+    font-size: 14px;
+    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif"; 
+}
+
+.main div {
+    display: inline-block;
+    width: 230px;
+    height: 250px;
+    text-align: center;
+    vertical-align: bottom;
+    color: gray;
+    text-decoration: none;
+    padding-top: 40px;   
+}
+.main {
+    text-align: center;
+}
+
+.section1 {
+    background: url("apple7_1.png") no-repeat top center;
+}
+.section2 {
+    background: url("apple7_2.png") no-repeat top center;
+}
+.section3 {
+    background: url("Apple7_3.png") no-repeat top center;  
+}
+.section4 {
+    background: url("apple7_4.png") no-repeat top center;
+}
+
+a {
+    color: #08C08C;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline
+}
+  
+h5 {
+    font-size: 1.2em;
+}

@@ -1,0 +1,13 @@
+html {
+    font-size: 16px;
+    font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif"; 
+}
+
+div {
+    background: #000000 url('iphone4.png') no-repeat;
+    text-decoration: none;
+    width: 400px;
+    height: 150px;
+    text-align: right;
+    dispaly: inline-block;
+}
